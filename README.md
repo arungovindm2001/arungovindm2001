@@ -3,7 +3,7 @@
 
 - :boy: Him/His
 
-- 🌱 I’m currently learning <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/>
+- 🌱 I’m currently learning <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="20" height="20"/>
 
 - 👨‍💻 All of my projects are available [here](https://arungovindm2001.github.io/#projects)
 
@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/arungovind_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arungovindm5991" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arun-govind-m-0196331b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-govind-m-0196331b4" height="30" width="40" /></a>
-<a href="https://instagram.com/arungovind_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arungovind_m" height="30" width="40" /></a>
+  <a href="https://twitter.com/arungovind_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arungovindm5991" height="30" width="40" /></a>
+  <a href="https://t.me/arungovind_m" target="blank"><img align="center" src="https://devicons.railway.app/i/telegram.svg" alt="arungovind_m" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/arun-govind-m-0196331b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-govind-m-0196331b4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages</h3>

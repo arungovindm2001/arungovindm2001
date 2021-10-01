@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://arungovindm2001.github.io/#projects)
 
-- 📫 How to reach me **arungovindm@gmail.com**
+- 📫 How to reach [me](mailto:arungovindm@gmail.com)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">

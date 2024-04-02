@@ -1,11 +1,11 @@
 <h1 align="center">Hi! I'm Arun!</h1>
-<h3 align="center">A Software Developer from India</h3>
+<h3 align="center">Software Developer</h3>
 
 <div align="center">
 <!-- <a href="https://discordapp.com/users/768503430935085091"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a> -->
 <a href="mailto:arungovindm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red&link=mailto:arungovindm@gmail.com"/></a>
 <a href="https://github.com/arungovindm2001"><img src="https://img.shields.io/badge/GitHub-24292E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://arungovindm2001.github.io"><img src="https://img.shields.io/badge/GitHub%20Pages%20Portfolio-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://arungovindm2001.github.io"><img src="https://img.shields.io/badge/Portfolio-327FC7.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/arun-govind-m/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arun-govind-m/"/></a>
 <a href="https://t.me/arungovind_m"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://twitter.com/arungovind_m"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X"/></a>

@@ -1,10 +1,6 @@
 <h1 align="center">Hi! I'm Arun Govind M</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- :boy: Him/His
-
-- 👨‍💻 All of my projects are available [here](https://arungovindm2001.github.io/#projects)
-
 - 📫 How to reach [me](mailto:arungovindm@gmail.com)
 
 <h3 align="left">Connect with me</h3>
